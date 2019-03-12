@@ -43,3 +43,4 @@ public class OrcWeapon implements Weapon {
     return weaponType;
   }
 }
+
